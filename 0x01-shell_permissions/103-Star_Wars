@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school
+telnet towel.blinkenlights.nl
