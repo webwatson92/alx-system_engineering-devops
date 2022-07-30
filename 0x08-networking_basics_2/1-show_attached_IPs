@@ -2,4 +2,3 @@
 # displays all active IPv4 IPs on the machine the script is executed on.
 
 olsof -i :98 | grep ":98"
-echo $?
