@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # displays all active IPv4 IPs on the machine the script is executed on.
 
-#olsof -i :98 | grep ":98"
-ifconfig
+ifconfig | grep 'inet addr' | cut -d':' -f2 | cut -d' ' -f1
