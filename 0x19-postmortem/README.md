@@ -11,10 +11,10 @@ https://www.parlons-digital.com
 
 ### Timeline (all times MEA Time)
 	
-Day 1 : Converse with namesheap team for understandign the problem :face_with_head_bandage:
-Day 2 : Backup the last sauvegarde (12th october) for recover all configuration (Not succes)
-Day 3 : Backup the last sauvegarde (13 September) (Not succes)
-Day 4 : Our developper enter the server to scan full server
+* Day 1 : Converse with namesheap team for understandign the problem :face_with_head_bandage:
+* Day 2 : Backup the last sauvegarde (12th october) for recover all configuration (Not succes)
+* Day 3 : Backup the last sauvegarde (13 September) (Not succes)
+* Day 4 : Our developper enter the server to scan full server
 
     - 6:19 PM: Scan server :monocle_face: 	
     - 8:30 PM: Find de malicious file :monocle_face: 	
