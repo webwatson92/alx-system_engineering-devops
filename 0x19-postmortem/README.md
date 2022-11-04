@@ -1,5 +1,5 @@
 ## PARLONS DIGITAL SERVER infrastructure outage incident report
-
+***
 
 This is the incident report regarding the outage of my digital solution company's infrastructure PARLONS DIGITAL that occurred this November 29, 2022. We understand that this service issue has impacted our valued developers and users, and we apologize to all those affected.
 
